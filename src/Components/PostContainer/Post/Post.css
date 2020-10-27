@@ -1,0 +1,51 @@
+.post {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  gap: 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.full-img-container {
+  text-align: center;
+}
+.full-img {
+  max-width: 90%;
+  padding: 0 16px 1rem;
+  object-fit: cover;
+}
+
+.post-info {
+  max-width: 96%;
+}
+
+@media (min-width: 670px) {
+  .full-img-container {
+    flex-basis: 60%;
+    padding-top: 9px;
+  }
+  .full-img {
+    padding: 0;
+    max-width: 90%;
+    max-height: 87vh;
+  }
+  .post-info {
+    flex-basis: 30%;
+    max-width: 100%;
+  }
+}
+
+/* SkeletonPost components */
+
+.skeleton-post {
+  display: block;
+  max-width: 1000px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+.skeleton-style {
+  color: #ddd;
+  padding-top: 24;
+}

@@ -1,9 +1,8 @@
-body {
-  overflow-x: hidden;
-}
 .card-img {
   height: 0;
   cursor: pointer;
   padding-top: 56.25%;
   position: relative;
 }
+
+/* import '../SkeletonComponents.css' */
