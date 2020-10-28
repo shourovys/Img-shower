@@ -12,6 +12,7 @@ import ShareIcon from '@material-ui/icons/Share';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import { useHistory } from 'react-router-dom';
 import { useStyles } from '../MaterialStyle/MaterialStyle'
+import SkeletonCard from '../Skeleton/SkeletonCard/SkeletonCard';
 
 //vai card ar import name same na..tau import korsa kano?
 export default function RecipeReviewCard({ post }) {

@@ -6,6 +6,7 @@ export const useStyles = makeStyles((theme) => ({
         maxWidth: 451,
         minWidth: 450,
         margin: '0 1rem',
+        marginBottom: '1rem',
         boxShadow: '0 0 3px rgba(0,0,0,.3)'
     },
     media: {
