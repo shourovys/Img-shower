@@ -17,7 +17,6 @@
 - ### React
 - ### React-Router
 - ### Material-UI
-- ### React
 
 <img src="https://i.ibb.co/31Rh9ZG/Screenshot-66.png" >
 <img src="https://i.ibb.co/64FY7Cf/Screenshot-68.png">
