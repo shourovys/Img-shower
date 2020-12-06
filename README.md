@@ -1,6 +1,6 @@
 # **Img shower**
 
-<img src="https://i.ibb.co/xGxZ63G/Screenshot-72.png" alt="Screenshot-72" border="0">
+<img src="https://i.ibb.co/Tq6P9pD/img-show.jpg" alt="Screenshot-72" border="0">
 
 # [LIVE](https://naughty-ptolemy-1b44af.netlify.app/)
 
