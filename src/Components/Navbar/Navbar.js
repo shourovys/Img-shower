@@ -78,7 +78,7 @@ export default function Navbar() {
           <Typography className={classes.title} variant="h6" noWrap
             onClick={() => history.push('/')}
           >
-            Social Buddy
+            Img shower
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>

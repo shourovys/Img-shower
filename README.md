@@ -1,9 +1,9 @@
-# **Social Buddy**
+# **Img shower**
 
 <img src="https://i.ibb.co/xGxZ63G/Screenshot-72.png" alt="Screenshot-72" border="0">
 # [_LIVE LINK_]()
 
-### In this `React` app you can see Infinite Image post with `Infintie Scrolling` facility.
+### In this React app, you can see Infinite Image post with `Infinite Scrolling` facility.
 
 ## **Features**
 
